@@ -1,0 +1,11 @@
+[package]
+name = "imperators_wish"
+version = "0.1.0"
+edition = "2021"
+authors = ["Domonkos Suranyi <suranyi.domi@gmail.com>"]
+
+[dependencies]
+bevy = "0.6.1"
+wee_alloc = "0.4"
+log = "0.4.14"
+pretty_env_logger = "0.4.0"
